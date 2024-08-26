@@ -12,7 +12,7 @@
 
 <img width="556" alt="RobotSimulinkModel" src="https://github.com/user-attachments/assets/135af6c1-98a8-4091-a6eb-8ff4e0ebef3d">
 
-<img width="556" alt="RobotSimulinkModel" src="https://github.com/user-attachments/assets/bd578347-9696-4ea8-8013-8f379fba97e5">
+![ParameterRobotModel](https://github.com/user-attachments/assets/ab36463d-905a-4a65-b641-f784f2a44cf0)
 
 Получается следующая траектория движения робота:
 
