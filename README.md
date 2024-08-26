@@ -4,6 +4,8 @@
 
 <img width="211" alt="CircleRobotMathModel" src="https://github.com/user-attachments/assets/58f47eaf-c9ee-44e7-b2b8-0b5a7b7963c2">
 
+![RobotPrincep](https://github.com/user-attachments/assets/5f2f5d78-fe8b-4c95-b34f-5d3ecaac6311)
+
 Алгоритм решения прямой кинимотической задачи по данным урванениям:
 
 ![CircleRobotAlgoritm](https://github.com/user-attachments/assets/283ac88a-52c7-4603-8e3b-7deb59dc27e9)
