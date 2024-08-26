@@ -14,7 +14,8 @@
 
 ![ParameterRobotModel](https://github.com/user-attachments/assets/ab36463d-905a-4a65-b641-f784f2a44cf0)
 
-Получается следующая траектория движения робота:
+При различии скорости колес в 2 раза получается следующая траектория движения робота:
 
 <img width="896" alt="XYplotRobot" src="https://github.com/user-attachments/assets/6a3daa53-ac00-4e09-9db6-0c2ab8b936cf">
 
+![XYplotRobot2](https://github.com/user-attachments/assets/1519c7b8-3799-4855-9e2b-1d2b10175aad)
