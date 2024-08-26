@@ -20,4 +20,6 @@
 
 <img width="896" alt="XYplotRobot" src="https://github.com/user-attachments/assets/6a3daa53-ac00-4e09-9db6-0c2ab8b936cf">
 
+При одинаковой скорости колёс получается следующая траектория движения робота:
+
 ![XYplotRobot2](https://github.com/user-attachments/assets/1519c7b8-3799-4855-9e2b-1d2b10175aad)
