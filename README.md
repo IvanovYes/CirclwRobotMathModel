@@ -1,4 +1,4 @@
-# CirclwRobotMathModel
+# CircleRobotMathModel
  
 Математическая модель колесного робота описывается следующими урванениями:
 
